@@ -1,0 +1,1 @@
+# ffmpeg-text-overlay-fail-log
